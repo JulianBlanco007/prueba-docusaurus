@@ -22,8 +22,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'NewSol', // Usually your GitHub org/user name.
+  organizationName: 'JulianBlanco007', // Usually your GitHub org/user name.
   projectName: 'Ejemplo_Docusaurus', // Usually your repo name.
+ deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
