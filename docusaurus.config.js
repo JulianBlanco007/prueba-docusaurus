@@ -26,6 +26,7 @@ const config = {
   projectName: 'prueba-docusaurus', // Usually your repo name.
  deploymentBranch: "gh-pages",
 
+
  
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
